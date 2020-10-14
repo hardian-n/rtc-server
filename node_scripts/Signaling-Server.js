@@ -1,4 +1,4 @@
-// Muaz Khan      - www.MuazKhan.com
+// Muaz Khan      - www.modif.com
 // MIT License    - www.WebRTC-Experiment.com/licence
 // Documentation  - github.com/muaz-khan/RTCMultiConnection
 
